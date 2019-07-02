@@ -1,0 +1,11 @@
+Chinese Noodles;Main Dishes;20000
+Fried Dumpling;Appetizers;7000
+Chicken Satay;Appetizers;40000
+Coffee;Drinks;10000
+Hot Tea;Drinks;6000
+Siomay;Appetizers;8000
+Chicken Hainan Rice;Main Dishes;45000
+Nasi Goreng;Main Dishes;20000
+Pudding;Desserts;8000
+Pork Belly;Main Dishes;40000
+katsu;Main Dishes;20000
